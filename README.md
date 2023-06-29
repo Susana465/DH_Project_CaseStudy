@@ -7,4 +7,5 @@ The idea behind it would be so that people can have a look at what the project i
 
 So below the poster, there'd be a set up list with the labels and people would put a sticker on the label they thought would apply. I did not think to take a photo of the poster by itself so here is a photo of how it looked with a proud Susana next to it.
 
+<img src="poster_AIUK.jpeg" alt="Susana in high viz vest, posing next to the poster with PhD project description" width="500"/>
 
