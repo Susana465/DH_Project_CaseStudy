@@ -13,7 +13,7 @@
 ## Insights from the day
 During the poster presentation, people talked about the project, had a look at the poster, and decided by adding stickers to a list of hazards, to say which ones applied to it.
 
-At the end of the day, I recorded final numbers and the results can be seen in the barchart below.
+By the end of the day, I recorded the final results, which are shown in the bar chart below. Instead of counting the number of participants, I tracked the total number of stickers left on the poster. Each participant was allowed to place one sticker on each label. They could add stickers to multiple labels but couldn't put more than one sticker on the same label.
 
 ![Labels that people chose as applicable for my PhD project](labels-recorded.PNG)
 
