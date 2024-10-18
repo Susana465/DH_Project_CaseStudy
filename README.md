@@ -10,3 +10,10 @@
 
 <img src="poster_AIUK.jpeg" alt="Susana in high viz vest, posing next to the poster with PhD project description" width="500"/>
 
+## Insights from the day
+During the poster presentation, people talked about the project, had a look at the poster, and decided by adding stickers to a list of hazards, to say which ones applied to it.
+
+At the end of the day, I recorded final numbers and the results can be seen in the barchart below.
+
+
+
