@@ -15,5 +15,9 @@ During the poster presentation, people talked about the project, had a look at t
 
 At the end of the day, I recorded final numbers and the results can be seen in the barchart below.
 
+![Labels that people chose as applicable for my PhD project](labels-recorded.PNG)
+
+An in depth discussion of these results is provided in my third year report, available here: [https://susana465.quarto.pub/3rd-year-report/30-data_hazards.html](https://susana465.quarto.pub/3rd-year-report/30-data_hazards.html)
+
 
 
