@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Roman Garcia"
+  given-names: "Susana"
+title: "Data Hazards Project Case Study"
+date-released: 2023-05-20
+url: "https://github.com/Susana465/DH_Project_CaseStudy"
